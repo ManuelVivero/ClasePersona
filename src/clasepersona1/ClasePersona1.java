@@ -11,7 +11,7 @@ public class ClasePersona1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Commit 5");
+        System.out.println("Commit 6");
     }
     
 }
